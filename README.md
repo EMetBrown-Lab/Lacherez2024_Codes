@@ -11,7 +11,7 @@ To start, please download your copy of the repo and run the setup.py file.
 Then, the automate_simulation.py file can be run. You can choose the parameters you wish to explore in the parameter section.
 Depending on the range of parameters, you may want to reduce the time step and simulation time; I left typical values for practicity. 
 
-The automate_simulatiom.py file then runs the run_simulation.py file calling all cython functions of the tm_sinusoid_trap packages, for each combination of parameters you asked for.
+The automate_simulation.py file then runs the run_simulation.py file calling all cython functions of the tm_sinusoid_trap packages, for each combination of parameters you asked for.
 
 All logs are kept in a log folder.
 

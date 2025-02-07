@@ -3,7 +3,7 @@
 
 Hello !
 
-The files in this repository are the packages you'll need to install in order to run the simulations of our Toy Model.
+The files in this repository are the packages you'll need to install and/or run to simulate of our Toy Model.
 Everything is commented, but feel free to shoot us an email in case of doubt or issues.
 
 To start, please download your copy of the repo and run the setup.py file.

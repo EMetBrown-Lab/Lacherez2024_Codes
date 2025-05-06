@@ -1,0 +1,12 @@
+base_output_dir: "output_file"
+log_dir: "logs"
+param_dir: "params"
+
+mu11: [1.]  # [2.000290317898098]
+mu12: [0.85] #1.9997096821019014] 
+mu22: [1.]  # [2.000290317898098]
+ks: [0.001]
+alphas: [3.]
+ls: [1.0]
+n_taskss: [2]
+trajectory_per_tasks: [10]
